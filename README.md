@@ -6,7 +6,7 @@
 
 ---
 
-# 🚀 Sobre mim
+#  Sobre mim
 
 Sou desenvolvedor focado em **Backend, Automação e Sistemas Inteligentes**.
 
@@ -20,9 +20,17 @@ Atualmente focado em:
 - **Sistemas de Inteligência Artificial**
 - **Infraestrutura Cloud**
 
+##  Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,js,html,css,mysql,postgres,docker" />
+
+</p>
+
 ---
 
-# 💻 Tecnologias
+#  Tecnologias
 
 ## Backend
 
@@ -50,7 +58,7 @@ Atualmente focado em:
 
 ---
 
-# 📊 Estatísticas GitHub
+#  Estatísticas GitHub
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauancomper&show_icons=true&theme=tokyonight"/>
@@ -59,7 +67,7 @@ Atualmente focado em:
 
 ---
 
-# 🔥 Sequência de Contribuições
+#  Sequência de Contribuições
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauancomper&theme=tokyonight"/>
@@ -73,60 +81,15 @@ Atualmente focado em:
 
 ---
 
-# 🚀 Projetos em Destaque
-
-## 🤖 AI Customer Support Automation
-
-Sistema de atendimento automatizado com inteligência artificial.
-
-Tecnologias:
-
-Node.js  
-Python  
-n8n  
-APIs de IA  
-Banco de dados
-
+#  Projetos em Destaque
 ---
 
-## 📊 Business Automation Dashboard
-
-Dashboard para monitoramento de automações, leads e conversões.
-
-Tecnologias:
-
-Node.js  
-JavaScript  
-PostgreSQL  
-APIs REST
-
----
-
-## 📅 Agenda Estética
-
-Sistema de agendamento para clínicas.
-
-Funcionalidades:
-
-- Agendamento online
-- Cadastro de clientes
-- Controle de faltas
-- Notificações automáticas
-- Relatórios administrativos
-
-Tecnologias:
-
-Node.js  
-MySQL  
-HTML  
-CSS  
-JavaScript
-
----
-
-# 📈 Gráfico de Atividade
+#  Gráfico de Atividade
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kauancomper&theme=tokyo-night)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kauancomper&color=blue&style=for-the-badge)
+![](https://github-profile-trophy.vercel.app/?username=kauancomper&theme=tokyonight)
 
 ---
 
@@ -159,3 +122,4 @@ JavaScript
 ---
 
 ⭐ Sempre explorando **Automação, Inteligência Artificial e Backend moderno**.
+
