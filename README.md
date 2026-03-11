@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Kauan Comper
+# Olá, eu sou Kauan Comper
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Backend+Developer;Automation+Engineer;AI+Systems+Builder;Node.js+%7C+Python+Developer;Building+Intelligent+Systems"/>
@@ -75,7 +75,7 @@ Atualmente focado em:
 
 ---
 
-# 🐍 Animação das Contribuições
+# Animação das Contribuições
 
 ![Snake animation](https://github.com/kauancomper/kauancomper/blob/output/github-contribution-grid-snake.svg)
 
@@ -93,7 +93,7 @@ Atualmente focado em:
 
 ---
 
-## 🌎 Conecte-se comigo
+## Conecte-se comigo
 
 <p align="center">
 
@@ -121,5 +121,5 @@ Atualmente focado em:
 
 ---
 
-⭐ Sempre explorando **Automação, Inteligência Artificial e Backend moderno**.
+ Sempre explorando **Automação, Inteligência Artificial e Backend moderno**.
 
