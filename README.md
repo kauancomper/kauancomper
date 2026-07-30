@@ -42,10 +42,6 @@ Atualmente focado em:
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Automação
-
-![n8n](https://img.shields.io/badge/n8n-ff6d5a?style=for-the-badge&logo=n8n&logoColor=white)
-
 ## Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
