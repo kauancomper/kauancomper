@@ -18,7 +18,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-@kauancomper__-E8352B?style=flat-square&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/-kauan.dev-0D0D0D?style=flat-square&logo=vercel&logoColor=E8352B" />
+<img src="https://img.shields.io/badge/-comper.dev-0D0D0D?style=flat-square&logo=vercel&logoColor=E8352B" />
 <img src="https://img.shields.io/badge/-Marab%C3%A1%2C%20PA-0D0D0D?style=flat-square&logo=googlemaps&logoColor=E8352B" />
 </p>
 
