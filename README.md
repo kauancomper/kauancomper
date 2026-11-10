@@ -108,6 +108,8 @@ Portfólio pessoal — identidade de marca própria, do zero.
 
 ### GitHub
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kauancomper)](https://github.com/stats-organization/github-stats-extended)
+
 <p align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kauancomper&show_icons=true&hide_title=true&bg_color=0D0D0D&title_color=E8352B&icon_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauancomper&layout=compact&hide_title=true&bg_color=0D0D0D&title_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/>
