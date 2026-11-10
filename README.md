@@ -98,7 +98,7 @@ Plataforma de busca de pneus por medida/veículo integrada ao ERP de uma revenda
 **kauan.dev**
 Portfólio pessoal — identidade de marca própria, do zero.
 `Next.js` `Design`
-[→ projeto](https://kauan.dev)
+[→ projeto](https://kauancomper.vercel.app/)
 
 </td>
 </tr>
@@ -133,7 +133,7 @@ Portfólio pessoal — identidade de marca própria, do zero.
 <p align="center">
 <a href="https://www.linkedin.com/in/kauan-comper/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E8352B"></a>
 <a href="https://instagram.com/kauancomper_"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E8352B"></a>
-<a href="https://kauan.dev"><img src="https://img.shields.io/badge/kauan.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E8352B"></a>
+<a href="https://kauancomper.vercel.app/"><img src="https://img.shields.io/badge/comper.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E8352B"></a>
 <a href="mailto:kauancomper11@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E8352B"></a>
 <a href="https://wa.me/5594992239540"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=E8352B"></a>
 </p>
