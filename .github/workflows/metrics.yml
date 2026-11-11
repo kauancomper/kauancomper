@@ -1,0 +1,23 @@
+name: Metrics (activity)
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
+  workflow_dispatch: {} # permite rodar manualmente em Actions > Metrics (activity) > Run workflow
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-activity.svg
+          # desliga as seções padrão (header, repos etc.) — queremos só o calendário de atividade
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
