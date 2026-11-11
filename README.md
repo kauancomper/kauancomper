@@ -22,8 +22,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-@kauancomper__-E8352B?style=flat-square&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/-kauan.dev-0D0D0D?style=flat-square&logo=vercel&logoColor=E8352B" />
+<a href="https://instagram.com/kauancomper_"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E8352B"></a>
+<a href="https://kauancomper.vercel.app"><img src="https://img.shields.io/badge/comper.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E8352B"></a>
 <img src="https://img.shields.io/badge/-Marab%C3%A1%2C%20PA-0D0D0D?style=flat-square&logo=googlemaps&logoColor=E8352B" />
 </p>
 
@@ -58,57 +58,6 @@ Atualmente focado em:
 <img src="https://img.shields.io/badge/VPS%20·%20Easypanel-0D0D0D?style=flat-square&logo=linux&logoColor=E8352B" />
 </p>
 
-`React` `Next.js` `Node.js` `TypeScript` `Python` `PostgreSQL` `Docker` `Claude Code` `Ollama` `n8n` `VPS (Easypanel)` · experiência adicional em `Cisco Networking` e `Blender 3D`
-
----
-
-### Projetos em destaque
-
-<!--
-  Substitua os links abaixo pelos repositórios que você quer mostrar.
-  Sugestão de ordem: 1) o projeto mais ambicioso/atual (Compera), 2) o que tem resultado mensurável,
-  3) o que mostra variedade de stack.
--->
-
-<table>
-<tr>
-<td width="50%">
-
-**Compera CRM**
-Plataforma self-hosted de atendimento multicanal com agentes de IA — arquitetura, backend e painel de gestão.
-`Node.js` `PostgreSQL` `IA`
-[→ repositório](#)
-
-</td>
-<td width="50%">
-
-**Simulador de Concursos**
-App de estudos com banco de questões e métricas de desempenho, usado por candidatos reais de concurso público.
-`React` `Next.js`
-[→ repositório](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Catálogo Continental (pneus)**
-Plataforma de busca de pneus por medida/veículo integrada ao ERP de uma revenda, alimentada por scraping.
-`Python` `Scraping` `Integração`
-[→ repositório](#)
-
-</td>
-<td width="50%">
-
-**kauan.dev**
-Portfólio pessoal — identidade de marca própria, do zero.
-`Next.js` `Design`
-[→ projeto](https://kauan.dev)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### GitHub
@@ -138,7 +87,7 @@ Portfólio pessoal — identidade de marca própria, do zero.
 <p align="center">
 <a href="https://www.linkedin.com/in/kauan-comper/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E8352B"></a>
 <a href="https://instagram.com/kauancomper_"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E8352B"></a>
-<a href="https://kauan.dev"><img src="https://img.shields.io/badge/kauan.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E8352B"></a>
+<a href="https://kauancomper.vercel.app"><img src="https://img.shields.io/badge/comper.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E8352B"></a>
 <a href="mailto:kauancomper11@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E8352B"></a>
 <a href="https://wa.me/5594992239540"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=E8352B"></a>
 </p>
