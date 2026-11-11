@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://instagram.com/kauancomper_"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E8352B"></a>
 <a href="https://kauancomper.vercel.app"><img src="https://img.shields.io/badge/comper.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E8352B"></a>
-<img src="https://img.shields.io/badge/-Marab%C3%A1%2C%20PA-0D0D0D?style=flat-square&logo=googlemaps&logoColor=E8352B" />
+<img src="https://img.shields.io/badge/-Marab%C3%A1%2C%20PA-0D0D0D?style=for-the-badge&logo=googlemaps&logoColor=E8352B" />
 </p>
 
 ---
