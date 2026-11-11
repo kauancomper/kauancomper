@@ -113,12 +113,6 @@ Portfólio pessoal — identidade de marca própria, do zero.
 
 ### GitHub
 
-<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=kauancomper&show_icons=true&hide_title=true&bg_color=0D0D0D&title_color=E8352B&icon_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauancomper&layout=compact&hide_title=true&bg_color=0D0D0D&title_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauancomper&background=0D0D0D&ring=E8352B&fire=E8352B&currStreakLabel=E8352B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&border=E8352B&border_radius=8"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauancomper&bg_color=0D0D0D&color=FFFFFF&line=E8352B&point=FFFFFF&area=true&area_color=E8352B&hide_border=true&radius=8"/> </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauancomper/kauancomper/output/github-contribution-grid-snake-dark.svg"> <img alt="snake" src="https://raw.githubusercontent.com/kauancomper/kauancomper/output/github-contribution-grid-snake.svg"> </picture>
-
-
-
-
-
 <p align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=kauancomper&show_icons=true&hide_title=true&bg_color=0D0D0D&title_color=E8352B&icon_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/>
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauancomper&layout=compact&hide_title=true&bg_color=0D0D0D&title_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/>
