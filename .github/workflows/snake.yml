@@ -2,29 +2,29 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
+  workflow_dispatch: {} # permite rodar manualmente em Actions > Generate Snake > Run workflow
+  push:
+    branches: ["main"]
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Gera o SVG da cobrinha a partir do grid de contribuições
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kauancomper
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake
+      - name: Publica os SVGs gerados na branch "output"
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-     env:
+        env:
           GITHUBB_TOKEN: ${{ secrets.GITHUBB_TOKEN }}
