@@ -1,9 +1,14 @@
 <!--
-  Pra esse banner e a cobrinha funcionarem, no repositório kauancomper/kauancomper:
+  Pra banner, cobrinha e gráfico de atividade funcionarem, no repositório kauancomper/kauancomper:
   1. Suba o arquivo banner-github.jpg na pasta /assets
   2. Suba o arquivo snake.yml em /.github/workflows
-  3. Rode o workflow uma vez em Actions > Generate Snake > Run workflow
-     (ele comita o SVG da cobrinha na branch "output", é isso que a seção GitHub mais abaixo usa)
+     Rode uma vez em Actions > Generate Snake > Run workflow
+     (comita o SVG da cobrinha na branch "output")
+  3. Suba o arquivo metrics.yml em /.github/workflows
+     Crie um Personal Access Token (github.com/settings/tokens, escopo "repo" + "read:user")
+     e salve como secret do repo com o nome METRICS_TOKEN (Settings > Secrets and variables > Actions)
+     Rode uma vez em Actions > Metrics (activity) > Run workflow
+     (comita o github-metrics-activity.svg direto na raiz do repo, na branch main)
 -->
 
 <p align="center">
@@ -18,7 +23,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-@kauancomper__-E8352B?style=flat-square&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/-comper.dev-0D0D0D?style=flat-square&logo=vercel&logoColor=E8352B" />
+<img src="https://img.shields.io/badge/-kauan.dev-0D0D0D?style=flat-square&logo=vercel&logoColor=E8352B" />
 <img src="https://img.shields.io/badge/-Marab%C3%A1%2C%20PA-0D0D0D?style=flat-square&logo=googlemaps&logoColor=E8352B" />
 </p>
 
@@ -98,7 +103,7 @@ Plataforma de busca de pneus por medida/veículo integrada ao ERP de uma revenda
 **kauan.dev**
 Portfólio pessoal — identidade de marca própria, do zero.
 `Next.js` `Design`
-[→ projeto](https://kauancomper.vercel.app/)
+[→ projeto](https://kauan.dev)
 
 </td>
 </tr>
@@ -108,12 +113,9 @@ Portfólio pessoal — identidade de marca própria, do zero.
 
 ### GitHub
 
-<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=kauancomper&show_icons=true&hide_title=true&bg_color=0D0D0D&title_color=E8352B&icon_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauancomper&layout=compact&hide_title=true&bg_color=0D0D0D&title_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauancomper&background=0D0D0D&ring=E8352B&fire=E8352B&currStreakLabel=E8352B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&border=E8352B&border_radius=8"/> </p> <p align="center"> <img src="./github-metrics-activity.svg" alt="activity"/> </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauancomper/kauancomper/output/github-contribution-grid-snake-dark.svg"> <img alt="snake" src="https://raw.githubusercontent.com/kauancomper/kauancomper/output/github-contribution-grid-snake.svg"> </picture>
-
-----------------
 <p align="center">
-<img height="165em" src="github-stats-extended.vercel.app/api?username=kauancomper&show_icons=true&hide_title=true&bg_color=0D0D0D&title_color=E8352B&icon_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/>
-<img height="165em" src="github-stats-extended.vercel.app/api/top-langs/?username=kauancomper&layout=compact&hide_title=true&bg_color=0D0D0D&title_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=kauancomper&show_icons=true&hide_title=true&bg_color=0D0D0D&title_color=E8352B&icon_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauancomper&layout=compact&hide_title=true&bg_color=0D0D0D&title_color=E8352B&text_color=FFFFFF&border_color=E8352B&border_radius=8"/>
 </p>
 
 <p align="center">
@@ -121,12 +123,12 @@ Portfólio pessoal — identidade de marca própria, do zero.
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauancomper&bg_color=0D0D0D&color=FFFFFF&line=E8352B&point=FFFFFF&area=true&area_color=E8352B&hide_border=true&radius=8"/>
+<img src="./github-metrics-activity.svg" alt="activity"/>
 </p>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/kauancomper/kauancomper/blob/output/github-contribution-grid-snake-dark.svg">
-<img alt="snake" src="https://github.com/kauancomper/kauancomper/blob/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauancomper/kauancomper/output/github-contribution-grid-snake-dark.svg">
+<img alt="snake" src="https://raw.githubusercontent.com/kauancomper/kauancomper/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -136,7 +138,7 @@ Portfólio pessoal — identidade de marca própria, do zero.
 <p align="center">
 <a href="https://www.linkedin.com/in/kauan-comper/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E8352B"></a>
 <a href="https://instagram.com/kauancomper_"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E8352B"></a>
-<a href="https://kauancomper.vercel.app/"><img src="https://img.shields.io/badge/comper.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E8352B"></a>
+<a href="https://kauan.dev"><img src="https://img.shields.io/badge/kauan.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E8352B"></a>
 <a href="mailto:kauancomper11@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E8352B"></a>
 <a href="https://wa.me/5594992239540"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=E8352B"></a>
 </p>
